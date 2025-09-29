@@ -150,7 +150,7 @@ bash
 pip install streamlit pandas numpy matplotlib seaborn plotly scikit-learn scipy
 
 # Run the application
-streamlit run student_analytics_dashboard.py
+streamlit run sf.py.py
 📈 Model Performance
 Classification Models
 Random Forest: ~85-90% accuracy in placement prediction
